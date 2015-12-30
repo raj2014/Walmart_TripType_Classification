@@ -10,7 +10,7 @@ source('scripts/feature_engineering.R')
 
 #generates the features on Department and fineline through Kmeans(Unsupervised Learning from trainData)
 #Clustering Departments and fineline items based on their class distributions in the train data.
-source('scripts/topFineline.R')
+source('scripts/ClusterFeatures.R')
 
 #Loads the dataset and produces the prediction for test data
 source('scripts/xgboost_single.R')
