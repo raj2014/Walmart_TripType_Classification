@@ -18,6 +18,6 @@ Private LB : 0.619
 
 Public LB  : 0.620
 
-Private LB rank : 110
+Private LB rank : 108
 
 Public LB rank  : 103
